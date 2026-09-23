@@ -18,7 +18,7 @@ linux-based development workflows.
 - Clean an maintainable code structure;
 
 ## Author
-
+    
 Eduardo de Moraes Marinho
 
 ---
